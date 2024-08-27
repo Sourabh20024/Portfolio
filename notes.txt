@@ -1,0 +1,5 @@
+This website is for learning purpose i known its not fully work this is under devlopment  
+if you click on something its definitily not work 
+1. Mostly work is remaining on js 
+2.css
+3.Backend datbase related concept
